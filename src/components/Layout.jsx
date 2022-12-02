@@ -11,6 +11,7 @@ export default class Layout extends Component {
         <Header />
         <Banner />
         <List />
+        <List />
         <Footer />
       </div>
     );
